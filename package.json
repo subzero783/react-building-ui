@@ -1,0 +1,19 @@
+{
+  "name": "react-building-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subzero783/react-building-ui.git"
+  },
+  "author": "Gustavo Amezcua (subzero783)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subzero783/react-building-ui/issues"
+  },
+  "homepage": "https://github.com/subzero783/react-building-ui#readme"
+}
